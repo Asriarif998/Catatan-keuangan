@@ -1,0 +1,6 @@
+{
+  "name": "DompetKu",
+  "description": "Aplikasi catatan keuangan offline dengan siklus bulanan kustom, multi-dompet, grafik pengeluaran, target tabungan, dan backup CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

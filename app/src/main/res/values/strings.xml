@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DompetKu</string>
+    <string name="nav_dashboard">Ringkasan</string>
+    <string name="nav_transactions">Transaksi</string>
+    <string name="nav_wallets">Dompet</string>
+    <string name="nav_analytics">Grafik</string>
+    <string name="nav_savings">Target</string>
+    <string name="nav_settings">Pengaturan</string>
+</resources>
